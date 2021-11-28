@@ -20,7 +20,7 @@ function App() {
 
     useEffect(() => {
         dispatch(fetchCardsTC(countPage, mainLangId))
-    }, [dispatch])
+    }, [])
 
     return (<Routes>
             <Route path="/"
