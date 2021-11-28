@@ -1,0 +1,30 @@
+.container {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-radius: 10px;
+    margin: 1rem;
+    width: 350px;
+    height: 351px;
+}
+.block{
+    background-color: #c0c0c0;
+    width: 350px;
+    height: 231px;
+    border-radius: 10px 10px 0 0 ;
+}
+.a :first-child{
+    width: 50%;
+    margin-bottom: 8px;
+    height: 14px;
+}
+.a :nth-child(2n){
+    width: 80%;
+
+}
+.value{
+    margin: 5px;
+    padding: 5px ;
+    background-color:  #c0c0c0;
+    width: 340px;
+    height: 16px;
+    border-radius: 5px;
+}
