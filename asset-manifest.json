@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/testovoe/static/css/main.3fded7c4.chunk.css",
-    "main.js": "/testovoe/static/js/main.4b239147.chunk.js",
-    "main.js.map": "/testovoe/static/js/main.4b239147.chunk.js.map",
+    "main.js": "/testovoe/static/js/main.02c4a18c.chunk.js",
+    "main.js.map": "/testovoe/static/js/main.02c4a18c.chunk.js.map",
     "runtime-main.js": "/testovoe/static/js/runtime-main.443e632e.js",
     "runtime-main.js.map": "/testovoe/static/js/runtime-main.443e632e.js.map",
-    "static/js/2.e913665e.chunk.js": "/testovoe/static/js/2.e913665e.chunk.js",
-    "static/js/2.e913665e.chunk.js.map": "/testovoe/static/js/2.e913665e.chunk.js.map",
+    "static/js/2.891ac0e9.chunk.js": "/testovoe/static/js/2.891ac0e9.chunk.js",
+    "static/js/2.891ac0e9.chunk.js.map": "/testovoe/static/js/2.891ac0e9.chunk.js.map",
     "index.html": "/testovoe/index.html",
     "static/css/main.3fded7c4.chunk.css.map": "/testovoe/static/css/main.3fded7c4.chunk.css.map",
-    "static/js/2.e913665e.chunk.js.LICENSE.txt": "/testovoe/static/js/2.e913665e.chunk.js.LICENSE.txt",
+    "static/js/2.891ac0e9.chunk.js.LICENSE.txt": "/testovoe/static/js/2.891ac0e9.chunk.js.LICENSE.txt",
     "static/media/Vector.fbc03099.svg": "/testovoe/static/media/Vector.fbc03099.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.443e632e.js",
-    "static/js/2.e913665e.chunk.js",
+    "static/js/2.891ac0e9.chunk.js",
     "static/css/main.3fded7c4.chunk.css",
-    "static/js/main.4b239147.chunk.js"
+    "static/js/main.02c4a18c.chunk.js"
   ]
 }
