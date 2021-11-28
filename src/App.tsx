@@ -23,7 +23,7 @@ function App() {
     }, [])
 
     return (<Routes>
-            <Route path="/testovoe"
+            <Route path="/"
                    key={null}
                    element={
                        <Home cards={cards}
@@ -32,7 +32,7 @@ function App() {
                              isLoading={isLoading}
                              setLanguage={setLanguage}/>
                    }/>
-            <Route path="/testovoe/:id" key={null} element={<News  cards={cards}/>}
+            <Route path="/:id" key={null} element={<News  cards={cards}/>}
             />
         </Routes>
     );
